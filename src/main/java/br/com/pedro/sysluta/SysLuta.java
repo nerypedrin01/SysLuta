@@ -13,6 +13,9 @@ public class SysLuta {
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
+		
+		System.out.println("Iniciando");
+		
 		Aluno aln1 = new Aluno("55885599", "Jose", (float) 90, "20/12/2000");
 		Aluno aln2 = new Aluno("44488899", "João", (float) 90, "22/12/2000");
 		Aluno aln3 = new Aluno("33355499", "Joana", (float) 90, "14/12/2000");
